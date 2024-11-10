@@ -1,0 +1,45 @@
+.| venv
+.| pycache
+venv
+/venv
+\venv
+./venv
+.\venv
+
+__pycache__
+/__pycache__
+\__pycache__
+./__pycache__
+.\__pycache__
+__pycache__
+
+/pycache
+\pycache
+./pycache
+.\pycache
+__pycache__
+*.pyc
+
+/second_round/*.pyc
+\second_round\*.pyc
+
+/second_round/audio
+/second_round/audio_archive
+\second_round\audio
+\second_round\audio_archive
+/second_round/"Text Files"
+\second_round\"Text Files"
+/second_round/assets
+\second_round\assets
+
+notes.txt
+
+/first_round_archive
+\first_round_archive
+/assets
+\assets
+
+*\.env
+*/.env
+/second_round/.env
+\second_round\.env
